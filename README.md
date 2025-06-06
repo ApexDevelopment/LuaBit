@@ -15,7 +15,7 @@ LuaBit provides 32-bit bitwise operations for Lua. It is portable and works acro
 
 ## Installation
 
-Copy the `luabit.lua` file into your project directory.
+Copy the `luabit.lua` and `native.lua` files into your project directory.
 
 ## Usage
 
